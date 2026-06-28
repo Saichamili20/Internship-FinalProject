@@ -32,3 +32,7 @@ The goal is to identify how users feel about movies (positive, negative, or neut
 
 ## 💡 Outcome
 This analysis helps understand audience perception of movies and can support recommendation systems or content improvement strategies.
+
+## Final Insights
+- Most reviews show positive sentiment
+- Certain tags influence negative reviews
