@@ -32,3 +32,7 @@ It focuses on how different content types attract viewers.
 
 ## 💡 Outcome
 This analysis helps understand what type of content performs best and can help optimize content strategy for better reach.
+
+## Final Insights
+- Engagement varies by content type
+- Some categories perform better than others
