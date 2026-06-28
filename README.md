@@ -30,6 +30,3 @@ This repository contains two data analysis projects completed during my internsh
 - Jupyter Notebook
 
 ---
-
-## 📌 Author
-Saichamili
